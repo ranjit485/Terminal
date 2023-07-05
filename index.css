@@ -1,0 +1,74 @@
+
+.fakeButtons {
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    border: 1px solid #000;
+    position: relative;
+    top: 6px;
+    left: 6px;
+    background-color: #ff3b47;
+    border-color: #9d252b;
+    display: inline-block;
+  }
+  
+  .fakeMinimize {
+    left: 11px;
+    background-color: #ffc100;
+    border-color: #9d802c;
+  }
+  
+  .fakeZoom {
+    left: 16px;
+    background-color: #00d742;
+    border-color: #049931;
+  }
+  
+  .fakeMenu {
+    width: 100%;
+    box-sizing: border-box;
+    height: 25px;
+    background-color: #bbb;
+    margin: 0 auto;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+  }
+  
+  .fakeScreen {
+    background-color: #282a36;
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0 auto;
+    padding: 2px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
+  
+  span {
+    color: #fff;
+  }
+  .terminal,
+         .terminal span,
+          .cmd {
+              --color: #f8f8f2;
+              background-color: #282a36;
+          }
+    
+          .terminal,
+          span {
+              /* --size: 1.2; */
+              font-style:normal ;
+          }
+          .terminal .terminal-output:not(.raw) .terminal-error, .terminal .terminal-output:not(.raw) .terminal-error *{
+            color: #ffc100;
+          }
+          #img{
+            text-align: center;
+            height: 60px;
+            width: 60px;
+          }
+          lam{
+            height: 33px;
+            width: 70px;
+            border: 1px soild red;
+          }
