@@ -14,7 +14,7 @@ $('ter').terminal({
     },
     
     contact : function(userName){
-        if (userName=="sanchita") {
+        if (userName=="chita") {
           this.echo('https://wa.me/919665588537');
         }
         if (userName=="ranjit") {
