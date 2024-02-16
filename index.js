@@ -59,6 +59,12 @@ $('ter').terminal({
       window.open("https://demon-brother.blogspot.com/search/label/"+labelName);
     
     },
+    git: function (labelName) {
+      if(lableName=="key"){
+          echo("GITHUB KEY : ")
+      }   
+    
+    },
     close :function(){
       CloseModalOne();
     }
