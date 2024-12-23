@@ -1,8 +1,8 @@
 {
-  "SERVER_URL": "https://25d2-2409-4042-d06-485-7d7b-a41a-af9b-e4cd.ngrok-free.app /ps",
+  "SERVER_URL": "https://25d2-2409-4042-d06-485-7d7b-a41a-af9b-e4cd.ngrok-free.app/ps",
   "DEVELOPER_NAME": "Ranjit",
   "BUY_ME_COFFEE_BUTTON_VISIBLE":"YES",
-  "WEBSOCKET_URL": "wss://25d2-2409-4042-d06-485-7d7b-a41a-af9b-e4cd.ngrok-free.app /ps/ws",
+  "WEBSOCKET_URL": "wss://25d2-2409-4042-d06-485-7d7b-a41a-af9b-e4cd.ngrok-free.app/ps/ws",
   "ONESIGNAL_APP_ID": "f841a344-67bc-4525-966e-f5276babe410",
   "MAP_MY_INDIA_API_KEY": "3ec46d49ebb7fb8f074ed19cc8c82a46",
   "MAP_MY_INDIA_CLIENT_ID": "96dHZVzsAuuTBo7GfPQrzQvo9XooFPXXQt142wwak2QqpWblt76X0HUouokzm5ARAYJO_QFuUA6BmA8fwbYX8g==",
