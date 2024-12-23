@@ -1,5 +1,5 @@
 {
-  "SERVER_URL": "https://ca66-2409-4042-d06-485-7d7b-a41a-af9b-e4cd.ngrok-free.app/ps",
+  "SERVER_URL": "https://ca66-2409-4042-d06-485-7d7b-a41a-af9b-e4cd.ngrok-free.app/",
   "DEVELOPER_NAME": "Ranjit",
   "BUY_ME_COFFEE_BUTTON_VISIBLE":"YES",
   "WEBSOCKET_URL": "wss://ca66-2409-4042-d06-485-7d7b-a41a-af9b-e4cd.ngrok-free.app/ps/ws",
