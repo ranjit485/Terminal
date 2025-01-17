@@ -13,7 +13,7 @@
   "shareLocationButtonVisibleToDriver":"NO",
   "shareLocationButtonVisibleToAdmin":"NO",
   "changeBusButtonVisibleToEveryone":"NO",
-  "changeBusButtonVisibleToUser":"YES",
+  "changeBusButtonVisibleToUser":"NO",
   "changeBusButtonVisibleToDriver":"NO",
   "changeBusButtonVisibleToAdmin":"NO",
   "developerName": "Ranjit"
