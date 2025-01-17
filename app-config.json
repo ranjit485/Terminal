@@ -8,9 +8,9 @@
   "MAP_MY_INDIA_CLIENT_SECRET": "lrFxI-iSEg-bQ0D4XsKrrv-2ARAKnqm-jzq0FmeRnBnJkadU6QBiVzTjVSloEoNGBpCeXup396xYoewW5O4qKjd5uozDK_IO",
   "REMINDER_METER": 100,
   "buyMeCoffeeButtonVisible": "NO",
-  "shareLocationButtonVisible":"YES",
   "shareLocationButtonVisibleToEveryone":"NO",
   "shareLocationButtonVisibleToUser":"YES",
-  "shareLocationButtonVisibleToAdmin":"YES",
+  "shareLocationButtonVisibleToDriver":"NO",
+  "shareLocationButtonVisibleToAdmin":"NO",
   "developerName": "Ranjit"
 }
