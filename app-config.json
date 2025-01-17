@@ -9,7 +9,7 @@
   "REMINDER_METER": 100,
   "buyMeCoffeeButtonVisible": "NO",
   "shareLocationButtonVisible":"YES",
-  "shareLocationButtonVisibleToEveryone":"YES",
+  "shareLocationButtonVisibleToEveryone":"NO",
   "shareLocationButtonVisibleToUser":"YES",
   "shareLocationButtonVisibleToAdmin":"YES",
   "developerName": "Ranjit"
