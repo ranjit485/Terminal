@@ -10,10 +10,10 @@
   "buyMeCoffeeButtonVisible": "NO",
   "shareLocationButtonVisibleToEveryone":"NO",
   "shareLocationButtonVisibleToUser":"NO",
-  "shareLocationButtonVisibleToDriver":"NO",
+  "shareLocationButtonVisibleToDriver":"YES",
   "shareLocationButtonVisibleToAdmin":"NO",
   "changeBusButtonVisibleToEveryone":"NO",
-  "changeBusButtonVisibleToUser":"NO",
+  "changeBusButtonVisibleToUser":"YES",
   "changeBusButtonVisibleToDriver":"NO",
   "changeBusButtonVisibleToAdmin":"NO",
   "developerName": "Ranjit"
