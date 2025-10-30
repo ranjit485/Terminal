@@ -11,7 +11,7 @@
   "shareLocationButtonVisibleToEveryone":"NO",
   "shareLocationButtonVisibleToUser":"NO",
   "shareLocationButtonVisibleToDriver":"YES",
-  "shareLocationButtonVisibleToAdmin":"NO",
+  "shareLocationButtonVisibleToAdmin":"YES",
   "changeBusButtonVisibleToEveryone":"NO",
   "changeBusButtonVisibleToUser":"YES",
   "changeBusButtonVisibleToDriver":"YES",
