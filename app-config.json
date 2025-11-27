@@ -1,7 +1,7 @@
 {
   "APP_CONFIG_URL": "https://raw.githubusercontent.com/ranjit485/Terminal/master/",
-  "SERVER_URL": "presentsir-latest.onrender.com",
-  "WEBSOCKET_URL": "wss://presentsir-latest.onrender.com/ps/ws",
+  "SERVER_URL": "presentsir-server.onrender.com",
+  "WEBSOCKET_URL": "wss://presentsir-server.onrender.com/ps/ws",
   "ONESIGNAL_APP_ID": "f841a344-67bc-4525-966e-f5276babe410",
   "MAP_MY_INDIA_API_KEY": "3ec46d49ebb7fb8f074ed19cc8c82a46",
   "MAP_MY_INDIA_CLIENT_ID": "96dHZVzsAuuTBo7GfPQrzQvo9XooFPXXQt142wwak2QqpWblt76X0HUouokzm5ARAYJO_QFuUA6BmA8fwbYX8g==",
